@@ -1,0 +1,23 @@
+{
+  "addressList": [
+    {
+      "city": "Phoenix",
+      "houseNumber": 1031,
+      "id": 1,
+      "state": "AZ",
+      "street": "Forest Hills Dr",
+      "zipCode": "85022"
+    }
+  ],
+  "dateOfBirth": "1981-01-23",
+  "firstName": "Derek",
+  "generation": {
+    "alternativeName": "Generation Y",
+    "endYear": "1999-12-31",
+    "id": 2,
+    "name": "Millenials",
+    "startYear": "1980-01-01"
+  },
+  "lastName": "Wasinger",
+  "userName": "dwasinge"
+}
