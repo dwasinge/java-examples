@@ -25,7 +25,7 @@
 		<profile.commons.version>0.0.1-SNAPSHOT</profile.commons.version>
 
         <!-- swagger -->
-        <springfox-swagger.version>2.9.2</springfox-swagger.version>
+        <springfox-swagger.version>2.10.0</springfox-swagger.version>
 
 	</properties>
 
